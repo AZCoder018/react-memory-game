@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "./img/barney.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "./img/fred.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "./img/elroy.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "./img/ccaveman.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "./img/mmouse.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "./img/tom.jpg",
+    "clicked": false    
+  },
+  {
+    "id": 7,
+    "image": "./img/jerry.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "./img/yogi.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "./img/boo.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "./img/scooby.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "./img/shaggy.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "./img/droopy.jpg",
+    "clicked": false
+  }
+]
