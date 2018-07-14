@@ -10,7 +10,7 @@ const Header = props => (
     </nav>
     
     <div className="jumbotron text-muted">
-      <h1 className="title">Clicky Memory Game!</h1>
+      <h1 className="title">The React Clicky Memory Game!</h1>
       <p className="lead">Click on a cartoon image to earn points, but don't click on an image more than once!</p>
     </div>
   </div>

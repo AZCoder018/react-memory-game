@@ -8,7 +8,7 @@ The React Clicky Memory Game is a web application that utilizes React.
 
 You have two (2) options for using this application:
 
-1. Click on the following link to where the application is hosted on GitHub: ; or
+1. Click on the following link to where the application is hosted on GitHub: https://azcoder018.github.io/react-memory-game/; or
 
 2. Make sure that you have node.js installed on your computer, then:
 
