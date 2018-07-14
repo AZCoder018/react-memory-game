@@ -5,7 +5,7 @@ import "./Header.css";
 const Header = props => (
   
   <div className="main-container">
-    <nav className="navbar sticky-top navbar-light bg-light justify-content-end">
+    <nav className="navbar sticky-top">
       <h5 className="text">Current game score: {props.currentScore} | Top score: {props.topScore}</h5>
     </nav>
     
