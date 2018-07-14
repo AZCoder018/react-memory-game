@@ -10,7 +10,7 @@ const Header = props => (
     </nav>
     
     <div className="jumbotron text-muted">
-      <h1>Memory Card Game</h1>
+      <h1 className="title">Memory Card Game</h1>
       <p className="lead">Click a card, but only click it once!</p>
     </div>
   </div>
