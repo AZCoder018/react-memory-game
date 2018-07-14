@@ -1,8 +1,8 @@
-### THE DAILY WIRE MongoDB NEWS SCRAPER
+### THE REACT CLICKY MEMORY GAME
 
 #### __WHAT DOES THIS APP DO?__
 
-The Daily Wire MongoDB News Scraper is a web application that scrapes and saves news articles from the the Daily Wire website (www.dailywire.com),as well as save notes for your saved articles. The Daily Wire MongoDB News Scraper utilizes MongoDB, Mongoose, Node, Express,Express-Handlebars, Body-Parser, Request and Cheerio. 
+The React Clicky Memory Game is a web application that scrapes and saves news articles from the the Daily Wire website (www.dailywire.com),as well as save notes for your saved articles. The Daily Wire MongoDB News Scraper utilizes MongoDB, Mongoose, Node, Express,Express-Handlebars, Body-Parser, Request and Cheerio. 
 
 #### __HOW DO YOU GET STARTED?__
 
@@ -42,6 +42,6 @@ You have two (2) options for using this application:
 
 8. Click on the "Close" button if you want to close the modal without adding a new note.
 
-#### __WHO MAINTAINS AND CONTRIBUTES TO THIS VERSION OF THE DAILY WIRE MonogDB NEWS SCRAPER?__
+#### __WHO MAINTAINS AND CONTRIBUTES TO THIS VERSION OF THE REACT CLICKY MEMORY GAME?__
 
-This version of The Daily Wire MongoDB News Scraper was created by me, Jason Heath Meadows, Esq., currently a student at the University of Arizona Coding Boot Camp, in Gilbert, Arizona. I will maintain and contribute to this app,as necessary, as part of my Portfolio.
+This version of the React Clicky Memory Game was created by me, Jason Heath Meadows, Esq., currently a student at the University of Arizona Coding Boot Camp, in Gilbert, Arizona. I will maintain and contribute to this app,as necessary, as part of my Portfolio.
