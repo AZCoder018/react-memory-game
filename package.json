@@ -1,22 +1,21 @@
 {
-  "name": "memory-game",
-  "version": "0.5.0",
+  "name": "react-memory-game",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://rmglennon.github.io/react-memory-game",
   "dependencies": {
-    "lodash": "^4.17.4",
-    "normalize.css": "^7.0.0",
-    "react": "^15.6.1",
-    "react-dom": "^15.6.1",
-    "react-router-dom": "^4.1.2",
-    "react-scripts": "^1.1.4",
-    "store": "^2.0.12",
-    "styled-components": "^2.1.2"
+    "gh-pages": "^1.1.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-router": "^4.3.1",
+    "react-scripts": "1.1.1"
   },
-  "homepage": "./",
-  "main": "src/index.js",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom"
-  },
-  "devDependencies": {}
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
 }
