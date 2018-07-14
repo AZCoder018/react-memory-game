@@ -4,13 +4,14 @@
   margin: 1rem;
   position: relative;
   width: 180px;
-  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  box-shadow: 0 3px 6px black, 0 3px 6px black;
   background: #E9E9FF;
-  border-radius: 6px; 
+  border: 2px black;
 }
 
 .img-container {
   text-align: center;
   margin-top: auto;
   margin-bottom: auto;
+  border: 2px black;
 }
