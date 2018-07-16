@@ -20,7 +20,7 @@ You have two (2) options for using this application:
 
     - Then type 'yarn start' on the command line and press enter. Your default browser should automatically open to localhost:3000. The home page   for The React Clicky Memory Game should appear.
 
-#### __THE REACT CLICKY MEMORY GAME WORK?__
+#### __HOW DOES THE REACT CLICKY MEMORY GAME WORK?__
 
 1.  The application should render different twelve (12) different images of cartoon characters on the screen. The goal of the game is to click on     as many images as you can without clicking on the same image twice. 
 
